@@ -23,7 +23,7 @@ https://play.google.com/store/apps/details?id=com.sendmi
 <img src="https://user-images.githubusercontent.com/22584900/64840303-710c1380-d62d-11e9-9f60-cf955a6b97bb.png" width="300"/>
 
 Apple Store  
-hhttps://itunes.apple.com/us/app/sendmii/id1244511348?ls=1&mt=8  
+https://itunes.apple.com/us/app/sendmii/id1244511348?ls=1&mt=8  
 <img src="https://user-images.githubusercontent.com/22584900/64840282-5c2f8000-d62d-11e9-81c0-ba6f0dc1ee7a.png" width="300"/>
 
 ### Notable Features
