@@ -29,7 +29,11 @@ https://itunes.apple.com/us/app/sendmii/id1244511348?ls=1&mt=8
 ### Screenshots
 View assigned classes, the students assigned on each class and take attendance by pressing a button or scanning a QR code
 <img src="https://user-images.githubusercontent.com/22584900/66265445-1b501300-e849-11e9-9d60-82392f0cbd56.jpg"/>
+
+Get updated with school announcements and be able to post one yourself
 <img src=""/>
+
+Share moments
 <img src=""/>
 
 ### Notable Features
