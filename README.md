@@ -20,11 +20,16 @@ Solely built the app from the ground-up for both Android and iOS
 ### Store Listing
 Google Play Store  
 https://play.google.com/store/apps/details?id=com.sendmi  
-<img src="https://user-images.githubusercontent.com/22584900/64840303-710c1380-d62d-11e9-9f60-cf955a6b97bb.png" width="300"/>
+<img src="https://user-images.githubusercontent.com/22584900/66265364-af20df80-e847-11e9-847f-ff3bd067d1fd.png" width="300"/>
 
 Apple Store  
 https://itunes.apple.com/us/app/sendmii/id1244511348?ls=1&mt=8  
-<img src="https://user-images.githubusercontent.com/22584900/64840282-5c2f8000-d62d-11e9-81c0-ba6f0dc1ee7a.png" width="300"/>
+<img src="https://user-images.githubusercontent.com/22584900/66265356-a0d2c380-e847-11e9-955e-b396e2cdd080.png" width="300"/>
+
+### Screenshots
+<img src=""/>
+<img src=""/>
+<img src=""/>
 
 ### Notable Features
 * QR Code scanning
