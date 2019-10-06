@@ -27,6 +27,7 @@ https://itunes.apple.com/us/app/sendmii/id1244511348?ls=1&mt=8
 <img src="https://user-images.githubusercontent.com/22584900/66265356-a0d2c380-e847-11e9-955e-b396e2cdd080.png" width="300"/>
 
 ### Screenshots
+View assigned classes, the students assigned on each class and take attendance by pressing a button or scanning a QR code
 <img src="https://user-images.githubusercontent.com/22584900/66265445-1b501300-e849-11e9-9d60-82392f0cbd56.jpg"/>
 <img src=""/>
 <img src=""/>
