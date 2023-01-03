@@ -29,7 +29,7 @@
     "querystringify": "0.0.4",
     "ramda": "^0.22.1",
     "react": "15.3.2",
-    "react-native": "^0.34.0",
+    "react-native": "^0.70.6",
     "react-native-action-button": "^2.0.1",
     "react-native-animatable": "^0.6.0",
     "react-native-app-intro": "^1.1.4",
@@ -83,7 +83,7 @@
     "seamless-immutable": "^6.1.0"
   },
   "devDependencies": {
-    "ava": "^0.16.0",
+    "ava": "^5.1.0",
     "babel-eslint": "^6.1.0",
     "babel-preset-es2015": "^6.14.0",
     "enzyme": "^2.3.0",
