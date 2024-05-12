@@ -17,7 +17,7 @@ https://www.facebook.com/Sendi.SG/
 ### My Contribution
 Solely built the app from the ground-up for both Android and iOS
 
-### Store Listing
+### Store Listing EDITED
 Google Play Store  
 https://play.google.com/store/apps/details?id=com.sendmi  
 <img src="https://user-images.githubusercontent.com/22584900/66265364-af20df80-e847-11e9-847f-ff3bd067d1fd.png" width="300"/>
