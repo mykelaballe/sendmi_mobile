@@ -5,3 +5,8 @@ jobs:
     steps:
       - run: node --version
       - run: npm --version
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@1
+        with:
+          ruby-version: 2.7
