@@ -1,3 +1,4 @@
+name: GithubActionsTest
 on:
   push:
     tags:
